@@ -1,0 +1,177 @@
+body{
+	background: lavender;
+}
+h1{
+	color: black;
+	font-family: Comic Sans MS;
+	font-size: 100px;
+}
+.about{
+	color: black;
+	font-family: Comic Sans MS;
+	font-size: 50px;
+	margin-left: 5%;
+}
+.hr1{
+	height: 3px;
+	color: lavender;
+	background: white;
+	border: 0.1px solid white;
+	border-radius: 2px;
+	margin-left: 5%;
+	margin-right: 54%;
+	margin-top: -5%;
+	margin-bottom: 10%;
+}
+.hr2{
+	height: 3px;
+	color: lavender;
+	background: white;
+	border: 0.1px solid white;
+	border-radius: 2px;
+	margin-right: 7%;
+	margin-left: 74%;
+	margin-top: -5%;
+	margin-bottom: 10%;
+}
+.p1{
+	margin-top: -10.5%;
+	margin-left: 20%;
+	font-size: 8px;
+	font-family: Comic Sans MS;
+}
+.p3{
+	font-family: cursive;
+	width: 500px;
+	background: rgba(0, 0, 0, 0.3);
+}
+.p4{
+	width: 85%;
+	padding: 10px;
+	margin-left: 5%;
+	font-size: 15px;
+	font-family:  cursive;
+	background: rgba(0, 0, 0, 0.1);
+}
+.main{
+	margin-top: 10%;
+	margin-bottom: 20%;
+	background: lavenderblush;
+}
+.div2{
+	padding-top: 20px;
+	height: 50px;
+	background: lavender;
+	border: 2px lavender;
+	border-radius: 10px;
+	margin-left: 5%;
+	margin-right: 54%;
+	margin-bottom: 7%;
+}
+.div3{
+	padding-top: 5px;
+	height: 20px;
+	margin-left: 75%;
+	margin-right: 5%;
+	margin-top: -10%;
+	margin-bottom: 7%;
+}
+.div5{
+	background: skyblue;
+	border: 2px solid white;
+	margin-top: -19%;
+	height: 300px;
+}
+.btn1{
+	color: black;
+	font-size: 20px;
+	font-family: Comic Sans MS;
+	padding-left: 20px;
+	padding-right: 50px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.btn2{
+	color: yellow;
+	background: skyblue;
+	font-size: 20px;
+	font-family: Comic Sans MS;
+	padding-left: 20px;
+	padding-right: 50px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.btn3{
+	color: black;
+	font-size: 20px;
+	font-family: Comic Sans MS;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.btn1,.btn2,.btn3,.btn5,{
+	color: black;
+
+}
+.btn1:hover,.btn2:hover,.btn3:hover,.btn5:hover{
+	color: yellow;
+	background: skyblue;
+}
+.btn4{
+	font-size: 15px;
+	font-family: cursive;
+	height: 35px;
+	background: whitesmoke;
+	border: 3px solid white;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.btn4{
+	color: black;
+	background: whitesmoke;
+}
+.btn4:hover{
+	color: yellow;
+	background: skyblue;
+}
+.btn5{
+	color: black;
+	font-size: 20px;
+	font-family: Comic Sans MS;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: 5%;
+	cursor: pointer;
+}
+.btn6{
+	color: black;
+	font-size: 20px;
+	font-family: Comic Sans MS;
+	padding-left: 20px;
+	margin-left: 5%;
+	cursor: auto;
+}
+.btn6a{
+	color: black;
+	font-size: 20px;
+	padding-right: 20px;
+	font-family: Comic Sans MS;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	cursor: text;
+}
+.btt{
+	font-size: 15px;
+	font-family: cursive;
+	height: 35px;
+	background: whitesmoke;
+	border: 3px solid white;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.rs{
+	font-size: 25px;
+	margin-top: -10%;
+	margin-left: 25%;
+}
