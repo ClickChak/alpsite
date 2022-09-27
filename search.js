@@ -22,7 +22,7 @@ function openPage(){
 	if (x === "gta vice city"){
 		window.open("http://oceanofgames.com/gta-vice-city-free-download-1793412/")
 	}
-	if (x === "gta 5, gta v"){
+	if (x === "gta 5"){
 		window.open("https://ipcgames.com/wait-for-game-download/")
 	}
 	if (x === "kgf 2"){
