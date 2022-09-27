@@ -106,3 +106,10 @@ h3{
 	height: 500px;
 	width: 90%;
 	}
+.divimg1{
+	border: 2px solid gray;
+	border-radius: 3px;
+	height: 500px;
+	width: 89%;
+	padding: 20px;
+	}
